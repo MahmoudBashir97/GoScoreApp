@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.mahmoudbashir.network'
+    namespace 'com.mahmoudbashir.common'
     compileSdk 34
 
     defaultConfig {
